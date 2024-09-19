@@ -19,9 +19,11 @@
   "devDependencies": {
     "@types/express": "^4.17.21",
     "@types/node": "^20.9.3",
+    "@types/website-scraper": "^1.2.10",
     "@vitejs/plugin-vue": "^4.5.0",
     "nodemon": "^3.0.1",
     "vite": "^5.0.2",
-    "vue-tsc": "^1.8.22"
+    "vue-tsc": "^1.8.22",
+    "website-scraper": "^5.3.1"
   }
 }
